@@ -17,6 +17,5 @@ user with following information:
 
 Credits
   - NASDAQ website for downloading NASDAQ list of companies.
-    It is already included in the data folder.
 
 http://www.nasdaq.com/screening/companies-by-industry.aspx?exchange=NASDAQ&render=download
